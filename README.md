@@ -17,7 +17,7 @@ payment method, monthly charges, total charges, num admin, num tech and churn.
 ![Churn Dataset Analysis Page](https://user-images.githubusercontent.com/72240938/187133586-d97c5e09-d77b-44f2-a8f7-93c7d22b74f3.png)
 
 
-After loading the dataset in Power BI, I took the followin applications:
+After loading the dataset in Power BI, I applied the following applications:
 
 ## Steps Taken in Power BI Desktop Application:
 
