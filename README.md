@@ -1,4 +1,4 @@
-## ChurnDataset_Analysis_PowerBI
+## ChurnDataset Analysis in Power BI
 
 It is a Churn Dataset Analysis Task of PWC Virtual Internship.
 
